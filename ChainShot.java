@@ -15,9 +15,7 @@ public class ChainShot {
         lol--;
         if(lol==0) return 1.;
         return 1+1/Tor(lol) ;
-//        for (int i=0;i<=lol;i++){
-//
-//            return 0.;
+
         }
     }
 
